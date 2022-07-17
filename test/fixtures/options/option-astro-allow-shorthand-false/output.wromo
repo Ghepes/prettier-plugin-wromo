@@ -1,0 +1,6 @@
+---
+import Comp from "./comp.wromo";
+---
+
+<Comp options={options} />
+<Comp options={options} />

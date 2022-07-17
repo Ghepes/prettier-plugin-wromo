@@ -1,0 +1,71 @@
+{
+  "name": "prettier-plugin-wromo",
+  "version": "0.1.4",
+  "type": "commonjs",
+  "description": "A Prettier Plugin for formatting wromo files",
+  "main": "dist/index.js",
+  "files": [
+    "dist/**",
+    "workers/*"
+  ],
+  "engines": {
+    "node": "^14.15.0 || >=16.0.0",
+    "npm": ">=6.14.0"
+  },
+  "homepage": "https://github.com/ersin84/prettier-plugin-wromo/",
+  "issues": {
+    "url": "https://github.com/ersin84/prettier-plugin-wromo/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "prettier-plugin",
+    "prettier",
+    "wromo",
+    "formatter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersin84/prettier-plugin-wromo.git"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "test": "vitest run",
+    "test:watch": "vitest -w",
+    "test:ui": "vitest --ui",
+    "lint": "eslint .",
+    "lint:fix": "yarn lint --fix",
+    "format": "prettier -w . --cache"
+  },
+  "dependencies": {
+    "@wromojs/compiler": "^0.15.2",
+    "prettier": "^2.7.1",
+    "sass-formatter": "^0.7.2",
+    "synckit": "^0.7.0"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.16.0",
+    "@rollup/plugin-commonjs": "^22.0.1",
+    "@rollup/plugin-typescript": "^8.3.3",
+    "@types/node": "^14.15.0",
+    "@types/prettier": "^2.6.3",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
+    "@vitest/ui": "^0.16.0",
+    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-prettier-doc": "^1.1.0",
+    "rollup": "^2.75.7",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4",
+    "vitest": "^0.16.0"
+  },
+  "author": "wromo <info.wromo@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ersin84/prettier-plugin-wromo/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

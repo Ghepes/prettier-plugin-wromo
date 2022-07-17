@@ -1,0 +1,3 @@
+test/fixtures/**/*.md
+test/fixtures/**/*.wromo
+**/dist
