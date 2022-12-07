@@ -1,6 +1,6 @@
 {
   "name": "prettier-plugin-wromo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "type": "commonjs",
   "description": "A Prettier Plugin for formatting wromo files",
   "main": "dist/index.js",
@@ -38,7 +38,6 @@
     "format": "prettier -w . --cache"
   },
   "dependencies": {
-    "@wromojs/compiler": "^0.15.2",
     "prettier": "^2.7.1",
     "sass-formatter": "^0.7.2",
     "synckit": "^0.7.0"
@@ -61,7 +60,7 @@
     "typescript": "^4.7.4",
     "vitest": "^0.16.0"
   },
-  "author": "wromo <info.wromo@gmail.com>",
+  "author": "ersin84 <info.wromo@gmail.com>",
   "bugs": {
     "url": "https://github.com/ersin84/prettier-plugin-wromo/issues"
   },
