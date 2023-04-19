@@ -2,7 +2,7 @@
 
 ## To get set up
 
-1. `git clone git@github.com:ersin84/prettier-plugin-wromo.git`
+1. `git clone git@github.com:ghepes/prettier-plugin-wromo.git`
 1. `yarn`
 1. `yarn build`
 1. Run [tests](https://vitest.dev/guide/) with `yarn test` or `yarn test:w` for watch mode

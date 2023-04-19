@@ -88,7 +88,7 @@ The format is a string with the words `markup` and `styles` separated by a pipe 
 
 Set if attributes with the same name as their expression should be formatted to the short form automatically (for example, if enabled `<element name={name} />` will become simply `<element {name} />`)
 
-> Please note that at the time of writing, [the shorthand form is not currently supported inside the Wromo VS Code extension](https://github.com/ersin84/language-tools/issues/225)
+> Please note that at the time of writing, [the shorthand form is not currently supported inside the Wromo VS Code extension](https://github.com/ghepes/language-tools/issues/225)
 
 | Default | CLI Override                     | API Override                  |
 | ------- | -------------------------------- | ----------------------------- |
@@ -105,7 +105,7 @@ Set if attributes with the same name as their expression should be formatted to 
 
 ## Contributing
 
-Pull requests of any size and any skill level are welcome, no contribution is too small. Changes to the Wromo Prettier Plugin are subject to [Wromo Governance](https://github.com/ersin84/wromo/blob/main/GOVERNANCE.md) and should adhere to the [Wromo Style Guide](https://github.com/ersin84/wromo/blob/main/STYLE_GUIDE.md)
+Pull requests of any size and any skill level are welcome, no contribution is too small. Changes to the Wromo Prettier Plugin are subject to [Wromo Governance](https://github.com/ghepes/wromo/blob/main/GOVERNANCE.md) and should adhere to the [Wromo Style Guide](https://github.com/ghepes/wromo/blob/main/STYLE_GUIDE.md)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how to setup your development environnement
 
@@ -113,16 +113,16 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how to setup your d
 
 Wromo is generously supported by amazing organizations.
 
-[🇷🇴 🐣 Sponsor Wromo! ❤️](https://github.com/ersin84/wromo/blob/main/FUNDING.md)
+[🇷🇴 🐣 Sponsor Wromo! ❤️](https://github.com/ghepes/wromo/blob/main/FUNDING.md)
 
 ### Platinum Sponsors
 
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://www.netlify.com/#gh-light-mode-only" target="_blank"><img width="147" height="40" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/netlify.svg#gh-light-mode-only" alt="Netlify" /></a><a href="https://www.netlify.com/#gh-dark-mode-only" target="_blank"><img width="147" height="40" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/netlify-dark.svg#gh-dark-mode-only" alt="Netlify" />
+      <td align="center"><a href="https://www.netlify.com/#gh-light-mode-only" target="_blank"><img width="147" height="40" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/netlify.svg#gh-light-mode-only" alt="Netlify" /></a><a href="https://www.netlify.com/#gh-dark-mode-only" target="_blank"><img width="147" height="40" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/netlify-dark.svg#gh-dark-mode-only" alt="Netlify" />
       </a></td>
-      <td align="center"><a href="https://www.vercel.com/#gh-light-mode-only" target="_blank"><img width="150" height="34" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/vercel.svg#gh-light-mode-only" alt="Vercel" /></a><a href="https://www.vercel.com/#gh-dark-mode-only"><img width="150" height="34" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/vercel-dark.svg#gh-dark-mode-only" alt="Vercel" />
+      <td align="center"><a href="https://www.vercel.com/#gh-light-mode-only" target="_blank"><img width="150" height="34" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/vercel.svg#gh-light-mode-only" alt="Vercel" /></a><a href="https://www.vercel.com/#gh-dark-mode-only"><img width="150" height="34" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/vercel-dark.svg#gh-dark-mode-only" alt="Vercel" />
       </a></td>
     </tr>
   </tbody>
@@ -135,18 +135,18 @@ Wromo is generously supported by amazing organizations.
     <tr>
       <td align="center">
         <a href="https://divRIOTS.com#gh-light-mode-only" target="_blank">
-        <img width="150" height="40" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/divriots.svg#gh-light-mode-only" alt="‹div›RIOTS" />
+        <img width="150" height="40" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/divriots.svg#gh-light-mode-only" alt="‹div›RIOTS" />
         </a>
         <a href="https://divRIOTS.com#gh-dark-mode-only" target="_blank">
-        <img width="150" height="40" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/divriots-dark.svg#gh-dark-mode-only" alt="‹div›RIOTS" />
+        <img width="150" height="40" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/divriots-dark.svg#gh-dark-mode-only" alt="‹div›RIOTS" />
         </a>
       </td>
       <td align="center">
         <a href="https://stackupdigital.co.uk/#gh-light-mode-only" target="_blank">
-        <img width="162" height="40" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/stackup.svg#gh-light-mode-only" alt="StackUp Digital" />
+        <img width="162" height="40" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/stackup.svg#gh-light-mode-only" alt="StackUp Digital" />
         </a>
         <a href="https://stackupdigital.co.uk/#gh-dark-mode-only" target="_blank">
-        <img width="130" height="32" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/stackup-dark.svg#gh-dark-mode-only" alt="StackUp Digital" />
+        <img width="130" height="32" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/stackup-dark.svg#gh-dark-mode-only" alt="StackUp Digital" />
         </a>
       </td>
     </tr>
@@ -158,7 +158,7 @@ Wromo is generously supported by amazing organizations.
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://sentry.io" target="_blank"><img width="147" height="40" src="https://raw.githubusercontent.com/ersin84/wromo/main/.github/assets/sentry.svg" alt="Sentry" /></a></td><td align="center"><a href="https://qoddi.com" target="_blank"><img width="147" height="40" src="https://devcenter.qoddi.com/wp-content/uploads/2021/11/blog-transparent-logo-1.png" alt="Qoddi App Platform" /></a></td>
+      <td align="center"><a href="https://sentry.io" target="_blank"><img width="147" height="40" src="https://raw.githubusercontent.com/ghepes/wromo/main/.github/assets/sentry.svg" alt="Sentry" /></a></td><td align="center"><a href="https://qoddi.com" target="_blank"><img width="147" height="40" src="https://devcenter.qoddi.com/wp-content/uploads/2021/11/blog-transparent-logo-1.png" alt="Qoddi App Platform" /></a></td>
     </tr>
   </tbody>
 </table>

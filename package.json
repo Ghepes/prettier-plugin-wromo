@@ -12,9 +12,9 @@
     "node": "^14.15.0 || >=16.0.0",
     "npm": ">=6.14.0"
   },
-  "homepage": "https://github.com/ersin84/prettier-plugin-wromo/",
+  "homepage": "https://github.com/ghepes/prettier-plugin-wromo/",
   "issues": {
-    "url": "https://github.com/ersin84/prettier-plugin-wromo/issues"
+    "url": "https://github.com/ghepes/prettier-plugin-wromo/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ersin84/prettier-plugin-wromo.git"
+    "url": "git+https://github.com/ghepes/prettier-plugin-wromo.git"
   },
   "scripts": {
     "build": "rollup -c",
@@ -60,9 +60,9 @@
     "typescript": "^4.7.4",
     "vitest": "^0.16.0"
   },
-  "author": "ersin84 <info.wromo@gmail.com>",
+  "author": "ghepes <info.wromo@gmail.com>",
   "bugs": {
-    "url": "https://github.com/ersin84/prettier-plugin-wromo/issues"
+    "url": "https://github.com/ghepes/prettier-plugin-wromo/issues"
   },
   "directories": {
     "test": "test"
