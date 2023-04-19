@@ -1002,7 +1002,7 @@ eslint-plugin-prettier-doc@^1.1.0:
   resolved "https://registry.npmjs.org/eslint-plugin-prettier-doc/-/eslint-plugin-prettier-doc-1.1.0.tgz"
   integrity sha512-ytzztiiqobTeYLqdRnv+dgowcb63gFFy31RekPeVPB6YOshwuGKJVKPdkq/mYtwsJ+eDtLiHksfwH5/M5nU09g==
 
-eslint-plugin-prettier@^4.0.0:
+eslint-plugin-prettier@^4.2.1:
   version "4.2.1"
   resolved "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-4.2.1.tgz"
   integrity sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==
@@ -2095,7 +2095,7 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.7.1, prettier@>=2.0.0:
+prettier@^2.7.1, prettier@>=2.0.0, prettier@2.8.0:
   version "2.8.0"
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.8.0.tgz"
   integrity sha512-9Lmg8hTFZKG0Asr/kW9Bp8tJjRVluO8EJQVfY2T7FMw9T5jy4I/Uvx0Rca/XWf50QQ1/SS48+6IJWnrb+2yemA==
